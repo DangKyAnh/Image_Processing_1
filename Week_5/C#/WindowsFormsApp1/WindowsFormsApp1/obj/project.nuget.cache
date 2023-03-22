@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vag2ohrnCnYg/5FzGokGwSld/oGKCz6HjGKUU0U7Dkg0kG1B6mTx9Vx1tXaWjj/oxlRgsppvNaJMbQJvjAIZkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Image_Processing\\Week_5\\C#\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\zedgraph\\5.1.5\\zedgraph.5.1.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ZedGraph 5.1.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ZedGraph",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "ZedGraph/5.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/ZedGraph.dll": {}
+        },
+        "runtime": {
+          "lib/ZedGraph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZedGraph/5.1.5": {
+      "sha512": "CclJINtatXbtBS2r4FFMPaGuwokmk5OlBnuW+QN5+d/CST0fv2N88pm8c3rIoOkXMiWvWArE+Jz1d2WA0QPoDQ==",
+      "type": "package",
+      "path": "zedgraph/5.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License-LGPL.txt",
+        "lib/ZedGraph.XML",
+        "lib/ZedGraph.dll",
+        "lib/de/ZedGraph.resources.dll",
+        "lib/es/ZedGraph.resources.dll",
+        "lib/fr/ZedGraph.resources.dll",
+        "lib/hu/ZedGraph.resources.dll",
+        "lib/it/ZedGraph.resources.dll",
+        "lib/ja/ZedGraph.resources.dll",
+        "lib/pt/ZedGraph.resources.dll",
+        "lib/ru/ZedGraph.resources.dll",
+        "lib/sk/ZedGraph.resources.dll",
+        "lib/sv/ZedGraph.resources.dll",
+        "lib/tr/ZedGraph.resources.dll",
+        "lib/zh-cn/ZedGraph.resources.dll",
+        "lib/zh-tw/ZedGraph.resources.dll",
+        "readme.txt",
+        "zedgraph.5.1.5.nupkg.sha512",
+        "zedgraph.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "ZedGraph >= 5.1.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Image_Processing\\Week_5\\C#\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+      "projectName": "WindowsFormsApp1",
+      "projectPath": "C:\\Users\\user\\Desktop\\Image_Processing\\Week_5\\C#\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Image_Processing\\Week_5\\C#\\WindowsFormsApp1\\WindowsFormsApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "ZedGraph": {
+            "target": "Package",
+            "version": "[5.1.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ZedGraph 5.1.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ZedGraph",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

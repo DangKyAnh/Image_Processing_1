@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\bin\Debug\Smooth.exe.config
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\bin\Debug\Smooth.exe
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\bin\Debug\Smooth.pdb
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\obj\Debug\Smooth.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\obj\Debug\Smooth.Form1.resources
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\obj\Debug\Smooth.Properties.Resources.resources
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\obj\Debug\Smooth.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\obj\Debug\Smooth.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\obj\Debug\Smooth.exe
+C:\Users\user\Desktop\Image_Processing\Week_11\C#\Smooth\Smooth\obj\Debug\Smooth.pdb

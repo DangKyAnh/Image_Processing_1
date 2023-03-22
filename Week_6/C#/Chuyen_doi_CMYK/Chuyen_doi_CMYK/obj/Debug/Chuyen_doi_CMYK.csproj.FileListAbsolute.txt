@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\obj\Debug\Chuyen_doi_CMYK.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\obj\Debug\Chuyen_doi_CMYK.Chuyen_Khong_Gian_Mau_CMYK.resources
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\obj\Debug\Chuyen_doi_CMYK.Properties.Resources.resources
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\obj\Debug\Chuyen_doi_CMYK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\obj\Debug\Chuyen_doi_CMYK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\bin\Debug\Chuyen_doi_CMYK.exe.config
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\bin\Debug\Chuyen_doi_CMYK.exe
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\bin\Debug\Chuyen_doi_CMYK.pdb
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\obj\Debug\Chuyen_doi_CMYK.exe
+C:\Users\user\Desktop\Image_Processing\Week_6\C#\Chuyen_doi_CMYK\Chuyen_doi_CMYK\obj\Debug\Chuyen_doi_CMYK.pdb

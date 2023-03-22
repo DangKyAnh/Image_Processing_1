@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ZedGraph/5.1.5": {
+        "runtime": {
+          "lib/ZedGraph.dll": {
+            "assemblyVersion": "5.1.5.28844",
+            "fileVersion": "5.1.5.28844"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZedGraph/5.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CclJINtatXbtBS2r4FFMPaGuwokmk5OlBnuW+QN5+d/CST0fv2N88pm8c3rIoOkXMiWvWArE+Jz1d2WA0QPoDQ==",
+      "path": "zedgraph/5.1.5",
+      "hashPath": "zedgraph.5.1.5.nupkg.sha512"
+    }
+  }
+}
